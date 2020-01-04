@@ -1,8 +1,13 @@
 # require modules here
+require "yaml"
 
 def load_library
   # code goes here
+  emoticons.yml
+  
 end
+end 
+
 
 def get_japanese_emoticon
   # code goes here
